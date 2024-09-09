@@ -25,7 +25,7 @@ Initially I found that 2018 had the most popular songs in 2023. I also found tha
 
 I then wanted to see which songs had the most streams. Interestingly, the Weeknd had the most streams with nearly 4 trillion streams and Taylor Swift wasn't even in the top 10, despite having the most songs in the list. I decided to show this information in both a bar chart and a pie chart in order to showcase the different ways to look at this information. 
 
-Finally, I wanted to make use of that song attribute, "danceability".  Here, I compared the danceability trait compared to the release year of songs and visualized it with a line chart in order to see that danceability had a large spike right before 2000, but has overall steadly increased over the years. 
+Finally, I wanted to make use of that song attribute, "danceability".  Here, I compared the danceability trait compared to the release year of songs and visualized it with a line chart in order to see that danceability had a large spike right before 2000, but has overall steadily increased over the years. 
 
 ## Visualizations
 You can find my visualizations for the the analysis by clicking the link below:
