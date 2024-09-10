@@ -8,7 +8,7 @@ The dataset used in this project was retrieved from a fairly popular Kaggle data
 The data provides information regarding song's various attributes, popularity, information and streaming stats in Spotify, Apple Music, Deeze, and Shazam.
 
 ## Analysis Report
-This section is a quick summary of my findings. You can find the full code and comments in the [Analysis].
+This section is a quick summary of my findings. You can find the full code and comments in the [Analysis](https://github.com/stgordillo/spotify_2023_python_project/blob/main/ANALYSIS.py).
 
 ### Initial
 To start, there was a compatibility problem with the unicode in the csv, and so I had to change the encoding from UTF-8 using encoding="ISO-8859-1" for it to read it as Latin-1. 
@@ -28,12 +28,4 @@ I then wanted to see which songs had the most streams. Interestingly, the Weeknd
 Finally, I wanted to make use of that song attribute, "danceability".  Here, I compared the danceability trait compared to the release year of songs and visualized it with a line chart in order to see that danceability had a large spike right before 2000, but has overall steadily increased over the years. 
 
 ## Visualizations
-You can find my visualizations for the the analysis by clicking the link below:
-
-Top 10 Artists with Most Songs
-
-Most Streamed Songs on Spotify in 2023 (Bar Chart)
-
-Most Streamed Songs on Spotify in 2023 (Pie Chart)
-
-Danceability over Time
+You can find my visualizations for the the analysis in [Visualizations](https://github.com/stgordillo/spotify_2023_python_project/blob/main/VISUALIZATIONS.md).
