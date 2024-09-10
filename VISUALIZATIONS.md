@@ -15,3 +15,5 @@ I used both a bar chart and a pie chart to show the different ways to view the d
 
 ## Unique Song Attribute "Danceability"
 ![Danceability over Time](https://github.com/user-attachments/assets/d056442d-51f5-4c6a-8c73-8f8ad44b5465)
+
+I compared the unique parameter "danceability" of songs to the year that the songs released in a line chart. This audio feature's definition is on their Spotify for Developers page as "Danceability describes how suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity". 
