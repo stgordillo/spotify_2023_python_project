@@ -5,7 +5,7 @@ Final project as a part of my Computer Programming II course. We were given the 
 ## Data Sources
 The dataset used in this project was retrieved from a fairly popular Kaggle dataset found here: [Most Streamed Spotify Songs 2023](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data).
 
-This dataset was gathered with . The data provides information regarding song's various attributes, popularity, information and streaming stats in Spotify, Apple Music, Deeze, and Shazam.
+The data provides information regarding song's various attributes, popularity, information and streaming stats in Spotify, Apple Music, Deeze, and Shazam.
 
 ## Analysis Report
 This section is a quick summary of my findings. You can find the full code and comments in the [Analysis].
